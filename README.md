@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamuditha Heshan</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<img align="center" alt="coding" width="900" height="350" src="background-with-person-working-with-codes-computer_23-2150010125.jpg](https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
+<img align="center" alt="coding" width="900" height="350" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamuditha01&label=Profile%20views&color=0e75b6&style=flat" alt="chamuditha01" /> </p>
 
 
