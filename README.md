@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamuditha Heshan</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<img align="center" alt="coding" width="900" height="350" src="[C:\Users\ASUS\Pictures\DALL·E 2024-11-10 12.12.44 - A detailed, digital illustration of a cozy study room belonging to a Computer Science student. The main focus is a dual-monitor setup showing complex .webp](https://www.imghippo.com/i/Nbk5518Tno.webp)">
+<img align="center" alt="coding" width="900" height="350" src="https://www.imghippo.com/i/Nbk5518Tno.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamuditha01&label=Profile%20views&color=0e75b6&style=flat" alt="chamuditha01" /> </p>
 
 
